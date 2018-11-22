@@ -1,0 +1,25 @@
+{
+  "materialMappings": {
+    "irradium_dust": 14,
+    "irradium_ingot": 18,
+    "irradium_gear": 15,
+    "signalum_dust": 7,
+    "enderium_plate": 2,
+    "irradium_nugget": 17,
+    "signalum_plate": 9,
+    "signalum_ingot": 11,
+    "signalum_nugget": 10,
+    "enderium_block": 6,
+    "signalum_gear": 8,
+    "enderium_rod": 5,
+    "irradium_rod": 19,
+    "irradium_plate": 16,
+    "enderium_dust": 0,
+    "irradium_block": 20,
+    "enderium_nugget": 3,
+    "enderium_gear": 1,
+    "signalum_block": 13,
+    "enderium_ingot": 4,
+    "signalum_rod": 12
+  }
+}

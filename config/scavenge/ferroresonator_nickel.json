@@ -1,0 +1,27 @@
+{
+	"block_pools": [{
+		"name": "Gravel Resonance",
+		"type": {
+			"type": "block",
+			"name": "extrautils2:compressedgravel"
+		},
+		"clicktype": "right",
+
+		"properties": [{
+				"type": "require_sneak"
+			},
+			{
+				"type": "require_item",
+				"name": "contenttweaker:ferroresonator"
+			}
+
+
+		],
+		"drops": [{
+			"name": "basemetals:nickel_ingot",
+			"meta": "0",
+			"amount": "1",
+			"disableJEI": false
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	"block_pools": [{
+		"name": "Cobblestone Resonance",
+		"type": {
+			"type": "block",
+			"name": "extrautils2:compressedcobblestone"
+		},
+		"clicktype": "right",
+
+		"properties": [{
+				"type": "require_sneak"
+			},
+			{
+				"type": "require_item",
+				"name": "contenttweaker:ferroresonator"
+			}
+
+
+		],
+		"drops": [{
+			"name": "minecraft:iron_ingot",
+			"meta": "0",
+			"amount": "1",
+			"disableJEI": false
+		}]
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	"block_pools": [{
+		"name": "Dirt Extraction",
+		"type": {
+			"type": "block",
+			"name": "extrautils2:compresseddirt"
+		},
+		"clicktype": "right",
+
+		"properties": [{
+				"type": "require_sneak"
+			},
+			{
+				"type": "require_item",
+				"name": "contenttweaker:electroredstonic_extractor"
+			}
+
+
+		],
+		"drops": [{
+			"name": "minecraft:redstone",
+			"meta": "0",
+			"amount": "1",
+			"disableJEI": false
+		}]
+	}]
+}

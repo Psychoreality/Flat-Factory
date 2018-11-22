@@ -1,0 +1,20 @@
+{
+  "dimensions": [
+    {
+      "dim": -1,
+      "worldinfo": {
+      "dimensiontype": {
+        "id": -1,
+        "name": "Nether",
+        "suffix": "_hell",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderHellJED",
+        "override": true
+      },
+      "worldinfo": {},
+      "worldinfo_onetime": {
+        "generatorName": "flat",
+        "generatorOptions": 3;1*minecraft:bedrock,62*minecraft:netherrack,1*minecraft:soul_sand;0;lava_lake"
+      }}
+    },
+   ]}
